@@ -1,1 +1,1 @@
-![SS](hello.png =200x60)
+<img src="hello.png" alt="Drawing" style="width: 400px; height: 160px"/>
